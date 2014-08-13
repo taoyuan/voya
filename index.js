@@ -1,3 +1,5 @@
 "use strict";
 
-module.exports = require('./lib/voya');
+module.exports = exports = require('./lib/voya');
+
+exports.express = require('./lib/express/index');

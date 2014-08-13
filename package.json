@@ -21,6 +21,7 @@
     "mocha": "^1.21.4"
   },
   "dependencies": {
+    "lodash": "^2.4.1",
     "sira": "git://github.com/taoyuan/sira",
     "sira-core": "git://github.com/taoyuan/sira-core"
   }
