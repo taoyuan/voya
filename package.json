@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/taoyuan/voya",
   "devDependencies": {
-    "chai": "^1.9.1",
-    "mocha": "^1.21.4"
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
   },
   "dependencies": {
-    "lodash": "^2.4.1",
-    "needs": "^0.1.5",
+    "lodash": "^4.17.15",
+    "needs": "^1.0.4",
     "sira": "git://github.com/taoyuan/sira",
     "sira-core": "git://github.com/taoyuan/sira-core"
   }
